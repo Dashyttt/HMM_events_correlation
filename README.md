@@ -25,6 +25,11 @@
 - **SKM** – ускоренное обучение состояний с использованием сегментного K-среднего.
 - **BW** – алгоритм, использующий ожидания для обучения вероятностей наблюдений.
 
+## Описание
+
+В `math_foundations` расположено описание математической части метода.
+В `diagrams` представлены блок-схемы работы метода.
+
 ## Источники
 
 1. Chadza T., Kyriakopoulos K. G., Lambotharan S. Analysis of hidden Markov model learning algorithms for the detection and prediction of multi-stage network attacks //Future generation computer systems. – 2020. – Т. 108. – С. 636-649.
