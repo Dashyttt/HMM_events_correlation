@@ -35,4 +35,3 @@
 1. Chadza T., Kyriakopoulos K. G., Lambotharan S. Analysis of hidden Markov model learning algorithms for the detection and prediction of multi-stage network attacks //Future generation computer systems. – 2020. – Т. 108. – С. 636-649.
 2. Kotenko I., Chechulin A. A cyber attack modeling and impact assessment framework //2013 5th International Conference on Cyber Conflict (CYCON 2013). – IEEE, 2013. – С. 1-24.
 3. Shawly T. et al. Architectures for detecting interleaved multi-stage network attacks using hidden Markov models //IEEE Transactions on Dependable and Secure Computing. – 2019. – Т. 18. – №. 5. – С. 2316-2330.
-4. Chadza T., Kyriakopoulos K. G., Lambotharan S. Analysis of hidden Markov model learning algorithms for the detection and prediction of multi-stage network attacks //Future generation computer systems. – 2020. – Т. 108. – С. 636-649.
